@@ -1,0 +1,66 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Visual Studio Code
+.vscode/
+
+# Rider files
+.idea/
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+logs/
+
+# ASP.NET Core specific
+appsettings.Development.json
+appsettings.Production.json
+appsettings.*.json
+!appsettings.json
+
+# Sensitive configuration files (if any in future)
+*.secrets.json
+*.userprefs
+
+# Swagger and OpenAPI generated files
+swagger.json
+swagger.yaml
+swagger/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Testing output
+TestResults/
+
+# Backup files
+*.bak
+*.orig
+*.tmp
+
+# User-specific files
+*.userosscache
+*.userprefs
+
+# Mac-specific files
+*.DS_Store
+
+# Node modules (if ever integrated)
+node_modules/
+
+# Any additional folders/files specific to your workflow
