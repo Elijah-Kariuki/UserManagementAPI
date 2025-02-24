@@ -1,0 +1,1 @@
+ASP.NET Core Web API for User Management featuring custom middleware for global exception handling, JWT-based authentication, and structured logging. NSwag integration provides detailed OpenAPI documentation. The API includes robust CRUD operations with comprehensive validation and error responses.
